@@ -1,10 +1,10 @@
-Installation
+## Installation
 
 git clone https://github.com/Innobyt/gamebundle-gen.git
 cd gamebundle-gen
 npm install
 
 
-Test
+## Test
 
 http://localhost:6060/
