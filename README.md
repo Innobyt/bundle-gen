@@ -1,8 +1,8 @@
 ## Installation
 
-git clone https://github.com/Innobyt/gamebundle-gen.git
-cd gamebundle-gen
-npm install
+1. git clone https://github.com/Innobyt/gamebundle-gen.git
+2. cd gamebundle-gen
+3. npm install
 
 
 ## Test
